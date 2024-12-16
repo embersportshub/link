@@ -287,6 +287,15 @@ p {
 
 /* End Hero Section */
 
+/* Blink */
+.blink {
+  font-size: 5rem;
+  font-weight: 9;
+  font-style: oblique;
+  text-decoration-color: #ffc107;
+  text-shadow: #29323c;
+}
+
 /* Register Section */
 
 .register-section {
@@ -415,6 +424,47 @@ p {
     font-size: 1em;
     padding: 10px 20px;
   }
+}
+/* Frame */
+.frame img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  <style > html {
+    font-family: sans-serif;
+    background-color: gray;
+  }
+
+  body {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: white;
+  }
+
+  header {
+    background: url(header.jpg) no-repeat center;
+    height: 200px;
+  }
+
+  section {
+    padding: 20px;
+  }
+
+  p {
+    line-height: 1.5;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+}
+.responsive {
+  width: 100%;
+  height: auto;
 }
 
 /* Services Section */
