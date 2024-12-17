@@ -42,15 +42,15 @@ p {
   text-align: center;
 }
 .section-title span {
-  color: rgb(22, 7, 239);
+  color: rgb(152, 186, 0);
 }
 
 .cta {
   display: inline-block;
   padding: 10px 15px;
-  color: rgb(22, 7, 239);
+  color: rgb(152, 186, 0);
   background-color: transparent;
-  border: 2px solid rgb(22, 7, 239);
+  border: 2px solid rgb(152, 186, 0);
   font-size: 2rem;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
@@ -62,9 +62,9 @@ p {
 .cta1 {
   display: inline-block;
   padding: 10px 15px;
-  color: rgb(22, 7, 239);
+  color: rgb(152, 186, 0);
   background-color: transparent;
-  border: 2px solid rgb(22, 7, 239);
+  border: 2px solid rgb(152, 186, 0);
   font-size: 2rem;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
@@ -75,11 +75,11 @@ p {
 
 .cta1:hover {
   color: white;
-  background-color: rgb(22, 7, 239);
+  background-color: rgb(152, 186, 0);
 }
 .cta:hover {
   color: white;
-  background-color: rgb(22, 7, 239);
+  background-color: rgb(152, 186, 0);
 }
 /* .checkbtn{
 	font-size: 30px;
@@ -91,7 +91,7 @@ p {
   color: white;
 }
 .brand h1 span {
-  color: rgb(22, 7, 239);
+  color: rgb(152, 186, 0);
 }
 
 /* Header section */
@@ -163,7 +163,7 @@ p {
   letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-  color: rgb(22, 7, 239);
+  color: rgb(152, 186, 0);
 }
 #header .hamburger {
   height: 60px;
@@ -289,8 +289,8 @@ p {
 
 /* Blink */
 .blink {
-  font-size: 5rem;
-  font-weight: 9;
+  font-size: 3rem;
+  font-weight: 5;
   font-style: oblique;
   text-decoration-color: #ffc107;
   text-shadow: #29323c;
@@ -524,7 +524,7 @@ p {
 }
 #services .service-item h2 {
   font-size: 2rem;
-  color: rgb(22, 7, 239);
+  color: rgb(152, 186, 0);
   margin-bottom: 10px;
   text-transform: uppercase;
 }
@@ -666,7 +666,7 @@ p {
   top: 19px;
   height: 98%;
   width: 98%;
-  border: 7px solid rgb(22, 7, 239);
+  border: 7px solid rgb(152, 186, 0);
   z-index: -1;
 }
 /* End About Section */
@@ -784,7 +784,7 @@ p {
 }
 @keyframes text_reveal_name {
   100% {
-    color: rgb(22, 7, 239);
+    color: rgb(152, 186, 0);
     font-weight: 500;
   }
 }
@@ -848,7 +848,7 @@ p {
     top: 34px;
     height: 98%;
     width: 98%;
-    border: 10px solid rgb(22, 7, 239);
+    border: 10px solid rgb(152, 186, 0);
   }
   #about .col-right {
     text-align: left;
