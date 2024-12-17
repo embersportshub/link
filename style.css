@@ -292,7 +292,7 @@ p {
   font-size: 3rem;
   font-weight: 5;
   font-style: oblique;
-  text-decoration-color: #ffc107;
+  text-decoration-color: rgb(152, 186, 0);
   text-shadow: #29323c;
 }
 
@@ -657,7 +657,7 @@ p {
   height: 100%;
   width: 100%;
   position: relative;
-  border: 10px solid white;
+  border: 10px solid rgb(152, 186, 0);
 }
 #about .col-left .about-img::after {
   content: "";
